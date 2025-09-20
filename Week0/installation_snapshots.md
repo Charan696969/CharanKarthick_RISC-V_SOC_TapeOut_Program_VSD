@@ -1,4 +1,4 @@
-# Day 0
+# WEEK 0
 The following files contains the tool snapshots of the installed tools in my system.
 
 
